@@ -1,4 +1,4 @@
-# Handwritten-Digit-Classification
+# Handwritten-Digit-Classification Kaggle Top 1%
 Handwritten Digit Classification on the MNIST dataset with Convolutional Neural Networks with the accuracy of 99%
 # Kaggle Digit Recognizer with CNN Tensorflow Keras
 
